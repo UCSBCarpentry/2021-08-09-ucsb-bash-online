@@ -182,7 +182,7 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  They should have a few specific software packages installed (listed <a href="#setup">below</a>). For this workshop, Windows users will need to install Git/Bash for Windows. 
 </p>
 
 {% comment %}
@@ -314,7 +314,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
-<p>Please be sure to complete these surveys before and after the workshop.</p>
+<p>Please be sure to complete the preworkshop survey before the workshop.</p>
 {% if site.carpentry == "pilot" %}
 <p><a href="{{ site.pilot_pre_survey }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.pilot_post_survey }}">Post-workshop Survey</a></p>
