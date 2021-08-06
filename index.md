@@ -409,7 +409,7 @@ please preview your site before committing, and make sure to run
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 
-  You need to download <a href="https://github.com/UCSBCarpentry/2021-08-09-ucsb-bash-online/blob/gh-pages/data/shell-lesson-data.zip">shell-lesson-data.zip</a> and move it 
+  You need to download <a href="https://drive.google.com/file/d/1SHxXeQAvu33McKy6VR8iAQUVEf5T7Waz/view?usp=sharing">shell-lesson-data.zip</a> and move it 
 to your desktop.
 </p>
 
